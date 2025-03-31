@@ -1,0 +1,165 @@
+<resources>
+    <string name="MAD">lab exam</string>
+
+    /*Main page*/
+    <string name="app_name">Bubble Pop Tea</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_text">Bubble Pop Tea</string>
+
+
+    /*Get Start*/
+    <string name="welcome">Welcome</string>
+    <string name="description">Craving your favorite bob? We’ve got you covered! From creamy classics to refreshing fruity
+        blends, explore a menu bursting with flavors you love.Save your go-to drinks, discover new favorites, and enjoy a
+        hassle-free way to satisfy your bubble tea cravings—anytime, anywhere!
+    </string>
+
+
+    /*Login Page */
+    <string name="login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forget Your Password?</string>
+    <string name="signup">Signup</string>
+    <string name="no_account">Don’t Have an Account?</string>
+
+
+    /*Sign Up*/
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an Account?</string>
+
+
+    /*Home page*/
+    <!-- Menu Categories -->
+    <string name="category_bob">Boba</string>
+    <string name="category_">Corn dog</string>
+    <string name="category_Donuts">Donuts</string>
+    <string name="category_Bubble_wrap">Bubblewrap</string>
+
+    <!-- Drinks -->
+    <string name="drink1">Oreo </string>
+    <string name="drink2">Sugar</string>
+    <string name="drink3">Matcha</string>
+    <string name="drink4">Roses</string>
+    <string name="drink5">Berry</string>
+    <string name="drink6">Mix</string>
+
+    <!-- price -->
+    <string name="Price1">RS 1500</string>
+    <string name="price22">RS 1000</string>
+    <string name="price3">RS 1200</string>
+    <string name="price4">RS 1350</string>
+    <string name="price5">RS 1100</string>
+    <string name="price6">RS 1300</string>
+
+    <!-- text -->
+    <string name="text1">Fun Bubbly Slips</string>
+    <string name="text2">Explore our menu</string>
+
+
+    /*Menu*/
+    <string name="product_name">Product Name 2</string>
+    <string name="price">Price: $15</string>
+    <string name="Button">Buy</string>
+
+
+    /*User profile*/
+    <string name="my_name">Anna Stephine</string>
+    <string name="pw">Password</string>
+    <string name="notification">Notification</string>
+    <string name="ask_me">Ask Me</string>
+    <string name="code">Promo Codes</string>
+    <string name="code1">You Have Multiple Promo Codes</string>
+    <string name="setting">Settings</string>
+    <string name="family">Messages</string>
+    <string name="save">Saved</string>
+    <string name="Mag">Manage Account</string>
+    <string name="verified">Verified</string>
+
+
+    /*My Account*/
+    <string name="my_email">Email           anaphase!@gmail.com</string>
+    <string name="my_phone">Mobile Number           0725010459</string>
+    <string name="my_password">Password           *************</string>
+    <string name="my_city">City           Malabe</string>
+    <string name="my_state">State           Kaduwela</string>
+    <string name="my_zipcode">Zipcode           10115</string>
+    <string name="my_country">Country          SriLanka</string>
+    <string name="card_info">Card Information</string>
+    <string name="my_card_no">Card Number          4455 77888 6666 9823</string>
+    <string name="my_date">MM/YY      08/29</string>
+    <string name="my_cvc">CVC                      ***</string>
+
+
+    /*Buy one*/
+    <string name="product">Matcha Milka Boba</string>
+    <string name="product_price">Rs 1300</string>
+    <string name="caption">Matcha Milk Boba is a creamy, refreshing, and slightly earthy delight.
+                           This popular bubble tea features a smooth blend of premium matcha green
+                           tea and rich, velvety milk, creating a perfect balance of sweetness and
+                           bitterness. Served over ice and paired with chewy tapioca pearls, each
+                           sip offers a satisfying contrast of textures. The natural umami of matcha
+                           complements the creamy milk, while the boba pearls add a fun and chewy element.
+                           Perfect for tea lovers seeking a harmonious mix of bold flavor and indulgent
+                           creaminess!  "</string>
+    <string name="add_on">Add on</string>
+    <string name="type1">apioca Pearls(Boba)</string>
+    <string name="type2">Brown Sugar Boba</string>
+    <string name="type3">Grass Jelly</string>
+    <string name="type4">Whipped Cream</string>
+    <string name="btn"> Button </string>
+
+
+    /*Cart*/
+    <string name="crt"> Cart </string>
+    <string name="item"> Item </string>
+    <string name="titel"> Title </string>
+    <string name="price1"> Price </string>
+    <string name="qyt"> Quantity </string>
+    <string name="totl"> Total </string>
+    <string name="remove"> Remove </string>
+    <string name="copon"> If you have promo code, enter it here </string>
+    <string name="cartTotals"> Cart Total </string>
+    <string name="sub"> Subtotal                 Rs3500 </string>
+    <string name="delivery"> Delivery fee                 Rs400 </string>
+    <string name="tot"> Total                 Rs3900 </string>
+    <string name="btn2"> PROCEED TO CHECKOUT </string>
+
+
+    /*Payment*/
+        <!-- Payment Screen Strings -->
+    <string name="payment_info">Payment Information</string>
+    <string name="cart_total">Cart Total</string>
+    <string name="card_info3">Card Information</string>
+    <string name="confirm_payment">Confirm Payment</string>
+    <string name="total">Total</string>
+
+    <!-- Form Field Labels -->
+    <string name="first_name1">First Name</string>
+    <string name="last_name1">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="street">Street</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="country">Country</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">MM/YY</string>
+    <string name="cvc">CVC</string>
+
+
+    /*Payment Successful*/
+    <string name="thank_you">Thank You For Confirming That Order</string>
+    <string name="go_to_home">Go To Home Page</string>
+    <string name="successfully">Successfully</string>
+    <string name="order_placed">Your Order has Been Placed</string>
+    <string name="order_confirmed">Order Confirmed</string>
+
+</resources>
